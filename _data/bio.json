@@ -6,53 +6,39 @@
     "email": "molly@hawaii.edu",
     "phone": "808-333-4444",
     "website": "https://mmaluhia.github.io",
-    "summary": "I am researching for soft sensor in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am researching soft sensor in the Department of Chemical System Engineering at the University of Tokyo. I expect to graduate in Spring, 2021.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "address": "7-3-1 Hongo, Bunkyo Ward, Tokyo",
+      "postalCode": "113－8656",
+      "city": "Tokyo",
+      "countryCode": "JAPAN",
+      "region": "Kanto"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "dainnovation722",
+        "url": "http://github.com/dainnovation722"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "dainnovation",
+        "url": "https://twitter.com/cherrybachelor"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Time-Series regression",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "LSTM",
+        "FFT"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Transfer Learning",
       "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
+        "domain adaptation"
       ]
     }
   ],
@@ -61,7 +47,7 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
+        "Python",
         "C++",
         "Java",
         "Javascript",
