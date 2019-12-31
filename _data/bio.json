@@ -85,7 +85,7 @@
       "startDate": "2019-05-01",
       "endDate": "2019-10-31",
       "summary": ""
-      "highlights": [
+      "highlights" : [
         "Implement, debug, refactoring algorithm for back-end web application"
       ]
     },
@@ -96,7 +96,7 @@
       "startDate": "2019-09-02",
       "endDate": "2019-09-15",
       "summary" : ""
-      "highlights": [
+      "highlights" : [
         "Develop AI for reversible game",
         "Writing report document"
       ]
@@ -108,7 +108,7 @@
       "startDate": "2019-09-15",
       "endDate": "Present",
       "summary": ""
-      "highlights": [
+      "highlights" : [
         "Analysis for abnormal detection",
         "Consult for Chemical Manufacturer"
       ]
