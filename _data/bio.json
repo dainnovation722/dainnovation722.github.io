@@ -77,6 +77,18 @@
       ]
     }
   ],
+  "education": [
+    {
+      "institution": "The University of Tokyo, Hongo, Tokyo",
+      "area": "Chemical System Engineering",
+      "studyType": "M.S.",
+      "startDate": "2019-04-01",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ],
   "intern": [
     {
       "company": "metadata",
